@@ -1,0 +1,24 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/indx.html",
+    "build": "parcel build src/indx.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiRodin/modules.git"
+  },
+  "keywords": [],
+  "author": "SERJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiiRodin/modules/issues"
+  },
+  "homepage": "https://github.com/SerhiiRodin/modules#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
